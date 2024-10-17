@@ -59,7 +59,7 @@ Here’s a more general breakdown of the top-paying data analyst jobs:
 - **Diverse Employers**: The job listings come from a variety of companies, from large tech firms like **Meta** to healthcare and financial organizations like **Uclahealthcareers** and **SmartAsset**.
 - **Variety of Job Titles**: The roles include a wide array of positions, such as **Data Analyst**, **Director of Analytics**, and **Principal Data Analyst**, reflecting different levels of responsibility and specialization within the field.
 
-![Top Paying Roles](assets\job_salaries_chart.png)
+![Top Paying Roles](assets/job_salaries_chart.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts*
 
 ### 2. Top Paying Job Skills: 
@@ -168,7 +168,7 @@ and CI/CD skills is evident with tools like Bitbucket ($189K), GitLab ($154K), a
 - **Programming & BI Tools**: Strong proficiency in Python libraries (Pandas, Numpy) 
 and business intelligence tools like MicroStrategy and PostgreSQL leads to top salaries. 
 
-![Highest paying skills](assets\highest_paid_skills.png)
+![Highest paying skills](assets/highest_paid_skills.png)
 
 
 ### 5. Optimal Skills for Data Analysts: 
