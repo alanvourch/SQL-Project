@@ -100,7 +100,7 @@ Here are the insights from the skills column of the top 10 data analyst roles:
 - **Python** is mentioned 7 times, indicating its importance for data analysis.
 - **Tableau** comes next with 6 mentions, emphasizing the need for data visualization skills.
 
-![Top paying skills](assets\skills.png)
+![Top paying skills](assets/skills.png)
 *Bar graph visualizing the most demanded skills for the top 10 highest paying Data Analyst remote offers*
 
 ### 3. Most Demanded Skills: 
