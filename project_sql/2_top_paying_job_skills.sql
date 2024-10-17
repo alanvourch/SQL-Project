@@ -322,7 +322,19 @@ Snowflake, Pandas, and Excel are mentioned 3 times each.
     "job_id": 731368,
     "job_title": "Director, Data Analyst - HYBRID",
     "salary_year_avg": "189309.0",
-    "company_name": "Inclusively",
+    "company_name": "Incl	job_id	job_title	salary_year_avg	company_name	skills
+0	552322	Associate Director- Data Insights	255,829.5	AT&T	sql
+1	552322	Associate Director- Data Insights	255,829.5	AT&T	python
+2	552322	Associate Director- Data Insights	255,829.5	AT&T	r
+3	552322	Associate Director- Data Insights	255,829.5	AT&T	azure
+4	552322	Associate Director- Data Insights	255,829.5	AT&T	databricks
+...	...	...	...	...	...
+61	1749593	Principal Data Analyst	186,000.0	SmartAsset	tableau
+62	1749593	Principal Data Analyst	186,000.0	SmartAsset	gitlab
+63	387860	ERM Data Analyst	184,000.0	Get It Recruit - Information Technology	sql
+64	387860	ERM Data Analyst	184,000.0	Get It Recruit - Information Technology	python
+65	387860	ERM Data Analyst	184,000.0	Get It Recruit - Information Technology	r
+usively",
     "skills": "power bi"
   },
   {

@@ -20,7 +20,7 @@ ORDER BY
 LIMIT 25;
 
 /* Here are three key trends from the top-paying skills for remote data analyst roles in 2023:
-
+  
 Big Data & Machine Learning: Expertise in tools like PySpark ($208K), 
 DataRobot ($155K), and Databricks ($141K) is highly valued, reflecting the focus on big data and AI.
 

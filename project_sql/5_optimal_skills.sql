@@ -50,7 +50,7 @@ LIMIT 25;
 
 -- rewriting the same query more concisely
 SELECT
-    skills_dim.skill_id,
+    -- skills_dim.skill_id,
     skills_dim.skills,
     COUNT(skills_job_dim.job_id) AS demand_count,
     ROUND(AVG(salary_year_avg), 0) AS avg_salary
@@ -68,4 +68,4 @@ HAVING
 ORDER BY
     avg_salary DESC,
     demand_count DESC
-LIMIT 25;
+LIMIT 10;
